@@ -56,7 +56,7 @@ Combining rigorous software engineering principles (C, C++, Java, Python) with m
 
 #### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" alt="Programming Languages" />
 </p>
 
 #### **Frontend**
@@ -71,7 +71,7 @@ Combining rigorous software engineering principles (C, C++, Java, Python) with m
 
 #### **Cloud, DevOps, BI & Tooling**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,py,powershell" alt="Tooling" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,py,powershell" alt="Cloud, DevOps, BI & Tooling" />
 </p>
 
 </div>
