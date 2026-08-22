@@ -19,7 +19,7 @@
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://yusufehtesham29.github.io"><img src="https://img.shields.io/badge/Portfolio-0A090C?style=for-the-badge&logo=google-chrome&logoColor=9D4EDD" alt="Portfolio" /></a>
+  <a href="https://portfolio-mern-blush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A090C?style=for-the-badge&logo=google-chrome&logoColor=9D4EDD" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/yusuf-ehtesham-558741229"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yusufehtesham21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/yusufehtesham29"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
