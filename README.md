@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Capsule Render Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=YUSUF%20EHTESHAM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20ML%20%26%20Full%20Stack%20Developer&descFontSize=16&descAlignY=60" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=YUSUF%20EHTESHAM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20ML%20%26%20Full%20Stack%20Developer&descFontSize=16&descAlignY=60" width="100%" alt="Header Banner" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
@@ -36,9 +36,9 @@
 
 ### **About Me**
 
-I am a **Data Analyst and Software / Machine Learning Engineer**. specializing in turning complex transactional datasets into strategic business decisions and scalable software solutions[cite: 2]. My technical expertise spans **SQL, Python, Excel, Power BI, DAX, and the MERN Stack**[cite: 2], with a proven track record of engineering machine learning pipelines[cite: 2], designing enterprise BI dashboards[cite: 2], and developing full-stack applications[cite: 2].
+I am a **Data Analyst and Software / Machine Learning Engineer** specializing in turning complex transactional datasets into strategic business decisions and scalable software solutions[cite: 2]. My technical expertise spans **SQL, Python, Excel, Power BI, DAX, and the MERN Stack**, with a proven track record of engineering machine learning pipelines, designing enterprise BI dashboards, and developing full-stack applications[cite: 2].
 
-Combining foundational software engineering (C, C++, Java, Python)[cite: 2] with modern analytics architectures, I focus on optimizing query latency, isolating commercial revenue leaks[cite: 2], and training classification models that achieve high recall rates in production[cite: 2].
+Combining foundational software engineering (C, C++, Java, Python) with modern analytics architectures, I focus on optimizing query latency, isolating commercial revenue leaks, and training classification models that achieve high recall rates in production[cite: 2].
 
 * **Software & Full Stack Engineering:** Python, Java, C/C++, JavaScript, React, Node.js, Express, MongoDB[cite: 2]
 * **Data Analytics & BI Engineering:** Advanced SQL (SQLite, MySQL), Power BI Desktop, DAX Measures, Power Query, Power Pivot[cite: 2]
@@ -98,7 +98,7 @@ Combining foundational software engineering (C, C++, Java, Python)[cite: 2] with
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `Python` `Scikit-learn` `Pandas` `NumPy`[cite: 2] | 440,000+ Customer Records[cite: 2] | 98.25% Recall Rate (Logistic Regression)[cite: 2] | Secure Pipeline Ingestion | Proactive Retention Campaigns[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
+| `Python` `Scikit-learn` `Pandas` `NumPy` | 440,000+ Customer Records[cite: 2] | 98.25% Recall Rate (Logistic Regression)[cite: 2] | Secure Pipeline Ingestion | Proactive Retention Campaigns[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
 
 * Engineered an automated preprocessing and feature transformation pipeline across 440K+ customer records[cite: 2].
 * Trained and evaluated classification models, tuning Logistic Regression to achieve a 98.25% recall score to prevent false negatives in customer churn tracking[cite: 2].
@@ -115,7 +115,7 @@ Combining foundational software engineering (C, C++, Java, Python)[cite: 2] with
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `SQL (SQLite)` `Python` `Pandas` `Matplotlib` `Jupyter`[cite: 2] | 9,995 Transactions[cite: 2] | Sub-second CTE & Aggregation Execution[cite: 2] | ACID-Compliant Local Schema | Uncovered $22.4K in Annual Losses[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
+| `SQL (SQLite)` `Python` `Pandas` `Matplotlib` `Jupyter` | 9,995 Transactions[cite: 2] | Sub-second CTE & Aggregation Execution | ACID-Compliant Local Schema | Uncovered $22.4K in Annual Losses[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
 
 * Analyzed 9,995 retail transactions using SQLite (CTEs, aggregations) and Python to assess financial performance across dimensions[cite: 2].
 * Pinpointed chronic loss-making sub-categories responsible for $22.4K in annual losses and formulated discount-capping strategies to improve profit margins[cite: 2].
@@ -132,7 +132,7 @@ Combining foundational software engineering (C, C++, Java, Python)[cite: 2] with
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `Power BI Desktop` `DAX` `Power Query` `Data Modeling`[cite: 2] | 26,000+ Transactions[cite: 2] | Optimized DAX & Star Schema Model[cite: 2] | Enterprise Role-Level Security (RLS) | Isolated INR 71L Churn Recovery Pool[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
+| `Power BI Desktop` `DAX` `Power Query` `Data Modeling` | 26,000+ Transactions[cite: 2] | Optimized DAX & Star Schema Model | Enterprise Role-Level Security (RLS) | Isolated INR 71L Churn Recovery Pool[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
 
 * Spearheaded an intensive 30-day BI challenge, engineering production dashboards for quick-commerce operational datasets[cite: 2].
 * Modeled 26K+ transactions using custom DAX measures (`SUMX`, `DIVIDE`) to uncover an INR 71L churn recovery pool and evaluate category margins (27.8%)[cite: 2].
@@ -149,7 +149,7 @@ Combining foundational software engineering (C, C++, Java, Python)[cite: 2] with
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `Excel` `Power Pivot` `Pivot Tables` `Slicers`[cite: 2] | 149,000+ Records ($698K Revenue)[cite: 2] | Optimized Pivot Cache | Protected Workbook Controls | Optimized Staffing & Stock Replenishment[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
+| `Excel` `Power Pivot` `Pivot Tables` `Slicers` | 149,000+ Records ($698K Revenue)[cite: 2] | Optimized Pivot Cache | Protected Workbook Controls | Optimized Staffing & Stock Replenishment[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
 
 * Analyzed 149K+ transactions ($698K revenue) across 3 store locations in Microsoft Excel[cite: 2].
 * Isolated peak operating hours (8–11 AM) and product sales patterns to optimize staffing schedules and supply replenishment[cite: 2].
@@ -166,7 +166,7 @@ Combining foundational software engineering (C, C++, Java, Python)[cite: 2] with
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`[cite: 2] | 1,000 Transactions (Q1 2019)[cite: 2] | Vectorized In-Memory Execution | Controlled Jupyter Environment | Evaluated $322.9K Revenue Metrics[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
+| `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` | 1,000 Transactions (Q1 2019)[cite: 2] | Vectorized In-Memory Execution | Controlled Jupyter Environment | Evaluated $322.9K Revenue Metrics[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
 
 * Performed exploratory data analysis across retail transactions, evaluating KPI baselines including $322,966.75 in revenue and a 4.76% profit margin[cite: 2].
 * Created statistical visualizations identifying key performance trends across branch networks, customer demographics, and product lines[cite: 2].
