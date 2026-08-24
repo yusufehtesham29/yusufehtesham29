@@ -36,7 +36,7 @@
 
 ### **About Me**
 
-I am a **Data Analyst and Software / Machine Learning Engineer**[cite: 2] specializing in transforming complex transactional data into strategic business decisions and high-performance software applications[cite: 2]. My technical foundation spans **SQL, Python, Excel, Power BI, DAX, and the MERN Stack**[cite: 2], with practical experience building high-recall predictive models[cite: 2], designing multi-table BI dashboards[cite: 2], and developing full-stack architectures[cite: 2].
+I am a **Data Analyst and Software / Machine Learning Engineer** specializing in transforming complex transactional data into strategic business decisions and high-performance software applications[cite: 2]. My technical foundation spans **SQL, Python, Excel, Power BI, DAX, and the MERN Stack**[cite: 2], with practical experience building high-recall predictive models[cite: 2], designing multi-table BI dashboards[cite: 2], and developing full-stack architectures[cite: 2].
 
 Combining computer science fundamentals (C, C++, Java, Python)[cite: 2] with modern analytics pipelines, I specialize in identifying commercial revenue leakages[cite: 2], optimizing query execution paths[cite: 2], and deploying data-driven workflows that create measurable business impact[cite: 2].
 
