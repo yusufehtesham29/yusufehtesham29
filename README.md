@@ -1,19 +1,17 @@
 <div align="center">
 
-<!-- Capsule Render Wave Banner (Fixed) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002b,50:5a189a,100:7b2cbf&height=220&section=header&text=YUSUF%20EHTESHAM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20ML%20Developer&descFontSize=16&descAlignY=60" width="100%" alt="Header Banner" />
+<!-- Capsule Render Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002b,50:5a189a,100:7b2cbf&height=220&section=header&text=YUSUF%20EHTESHAM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20ML%20%26%20Data-Driven%20App%20Developer&descFontSize=16&descAlignY=60" width="100%" alt="Header Banner" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=false&width=700&height=50&lines=MCA+Graduate+from+Techno+India+University;Data+Analysis+%7C+Dashboard+Development;Machine+Learning+%7C+Predictive+Analytics;Building+Data-Driven+Apps+with+MERN+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+Fault-Tolerant+Distributed+Systems;Data+Analysis+%7C+Dashboard+Development;Machine+Learning+%7C+Predictive+Analytics;Building+Data-Driven+Apps+with+MERN+Stack" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Academic & Location Badges -->
+<!-- Location Badge -->
 <p align="center">
-  <a href="https://github.com/yusufehtesham29"><img src="https://img.shields.io/badge/MCA-Techno%20India%20University%20(7.73%20CGPA)-7B2CBF?style=for-the-badge&logo=mortarboard&logoColor=white" alt="MCA Degree" /></a>
-  <a href="https://github.com/yusufehtesham29"><img src="https://img.shields.io/badge/BCA-Amity%20University%20Jharkhand-5A189A?style=for-the-badge&logo=mortarboard&logoColor=white" alt="BCA Degree" /></a>
   <a href="https://github.com/yusufehtesham29"><img src="https://img.shields.io/badge/Location-Ranchi%2C%20Jharkhand%2C%20India-3C096C?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /></a>
 </p>
 
@@ -34,19 +32,19 @@
 
 </div>
 
+---
+
 ### **About Me**
 
-I am an **MCA graduate** from Techno India University, Kolkata (CGPA: 7.73/10) with hands-on experience across **SQL, Python, Excel, Power BI, DAX, and the MERN Stack**. My technical expertise centers on end-to-end data analysis, dynamic dashboard development, machine learning pipeline engineering, and architecting data-driven applications.
+I am a **Data Analyst and Software / ML Engineer** with hands-on experience across **SQL, Python, Excel, Power BI, DAX, and the MERN Stack**[cite: 2]. My technical expertise centers on end-to-end data analysis, dynamic dashboard development, machine learning pipeline engineering, and architecting data-driven applications[cite: 2].
 
-Combining rigorous software engineering principles (C, C++, Java, Python) with modern data analytics workflows, I specialize in translating complex transactional datasets into strategic business decisions, building predictive models with high recall, and designing robust full-stack solutions.
+Combining rigorous software engineering principles (C, C++, Java, Python) with modern data analytics workflows, I specialize in translating complex transactional datasets into strategic business decisions, building predictive models with high recall, and designing robust full-stack solutions[cite: 2].
 
-* **Software & Full Stack Engineering:** Python, Java, C/C++, MERN Stack (MongoDB, Express, React, Node.js)
-* **Data Analytics & BI:** SQL (SQLite, MySQL), Power BI Desktop, DAX Modeling, Advanced Excel (Pivot Tables, Power Pivot)
-* **AI & Machine Learning:** Supervised Learning, Scikit-learn, Feature Engineering, EDA with Pandas, NumPy, Matplotlib & Seaborn
-* **Product Engineering Mindset:** Identifying profit leakage, modeling churn recovery pipelines, and building low-latency decision dashboards
+* **Software & Full Stack Engineering:** Python, Java, C/C++, MERN Stack (MongoDB, Express, React, Node.js)[cite: 2]
+* **Data Analytics & BI:** SQL (SQLite, MySQL), Power BI Desktop, DAX Modeling, Advanced Excel (Pivot Tables, Power Pivot)[cite: 2]
+* **AI & Machine Learning:** Supervised Learning, Scikit-learn, Feature Engineering, EDA with Pandas, NumPy, Matplotlib & Seaborn[cite: 2]
+* **Product Engineering Mindset:** Identifying profit leakage, modeling churn recovery pipelines, and building low-latency decision dashboards[cite: 2]
 * **Open To:** Data Analyst, BI Developer, Data Engineer, and Python/Full-Stack Software Engineer opportunities
-
----
 
 ### **Tech Stack**
 
