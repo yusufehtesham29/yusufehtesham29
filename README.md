@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=220&section=header&text=YUSUF%20EHTESHAM&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20ML%20%26%20Full%20Stack%20Developer&descFontSize=16&descAlignY=60" width="100%" alt="Header Banner" />
+<!-- Capsule Render Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002b,50:5a189a,100:7b2cbf&height=220&section=header&text=YUSUF%20EHTESHAM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20ML%20Developer&descFontSize=16&descAlignY=60" width="100%" alt="Header Banner" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
@@ -31,8 +31,6 @@
 </p>
 
 </div>
-
----
 
 ### **About Me**
 
