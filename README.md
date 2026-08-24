@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Capsule Render Wave Banner -->
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=220&section=header&text=YUSUF%20EHTESHAM&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20ML%20%26%20Full%20Stack%20Developer&descFontSize=16&descAlignY=60" width="100%" alt="Header Banner" />
 
 <!-- Typing SVG Animation -->
@@ -36,14 +36,14 @@
 
 ### **About Me**
 
-I am a **Data Analyst and Software / Machine Learning Engineer** specializing in transforming complex transactional data into strategic business decisions and high-performance software applications[cite: 2]. My technical foundation spans **SQL, Python, Excel, Power BI, DAX, and the MERN Stack**[cite: 2], with practical experience building high-recall predictive models[cite: 2], designing multi-table BI dashboards[cite: 2], and developing full-stack architectures[cite: 2].
+I am a **Data Analyst and Software / Machine Learning Engineer** specializing in transforming complex transactional data into strategic business decisions and high-performance software applications. My technical foundation spans **SQL, Python, Excel, Power BI, DAX, and the MERN Stack**, with practical experience building high-recall predictive models, designing multi-table BI dashboards, and developing full-stack architectures.
 
-Combining computer science fundamentals (C, C++, Java, Python)[cite: 2] with modern analytics pipelines, I specialize in identifying commercial revenue leakages[cite: 2], optimizing query execution paths[cite: 2], and deploying data-driven workflows that create measurable business impact[cite: 2].
+Combining computer science fundamentals (C, C++, Java, Python) with modern analytics pipelines, I specialize in identifying commercial revenue leakages, optimizing query execution paths, and deploying data-driven workflows that create measurable business impact.
 
-* **Software & Full Stack Engineering:** Python, Java, C/C++, JavaScript, React, Node.js, Express, MongoDB[cite: 2]
-* **Data Analytics & BI Engineering:** Advanced SQL (SQLite, MySQL), Power BI Desktop, DAX Measures, Power Query, Power Pivot[cite: 2]
-* **Machine Learning & Data Science:** Scikit-learn, Predictive Modeling, Exploratory Data Analysis, Pandas, NumPy, Matplotlib, Seaborn[cite: 2]
-* **Product Engineering Mindset:** Automated KPI dashboards, customer churn mitigation, margin optimization, and low-latency data pipelines[cite: 2]
+* **Software & Full Stack Engineering:** Python, Java, C/C++, JavaScript, React, Node.js, Express, MongoDB
+* **Data Analytics & BI Engineering:** Advanced SQL (SQLite, MySQL), Power BI Desktop, DAX Measures, Power Query, Power Pivot
+* **Machine Learning & Data Science:** Scikit-learn, Predictive Modeling, Exploratory Data Analysis, Pandas, NumPy, Matplotlib, Seaborn
+* **Product Engineering Mindset:** Automated KPI dashboards, customer churn mitigation, margin optimization, and low-latency data pipelines
 * **Open To:** Data Analyst, Business Intelligence Engineer, Data Engineer, and Python / Full-Stack Developer roles
 
 ---
@@ -80,11 +80,11 @@ Combining computer science fundamentals (C, C++, Java, Python)[cite: 2] with mod
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Machine Learning Pipelines** | `Advanced` | End-to-end churn classification pipelines using Scikit-learn, achieving **98.25% recall** with Logistic Regression[cite: 2] |
-| **Statistical Analysis & EDA** | `Expert` | Descriptive statistics, outlier detection, and distribution analysis with Pandas, NumPy, Matplotlib, and Seaborn[cite: 2] |
-| **Relational Data Modeling** | `Expert` | Complex SQL queries, CTEs, multi-table aggregations, and star schema dimensional architectures[cite: 2] |
-| **Business Intelligence & DAX** | `Expert` | Custom DAX measures (`SUMX`, `DIVIDE`), Power Query transformations, and interactive Power BI KPI dashboards[cite: 2] |
-| **Data Wrangling & Cleaning** | `Expert` | Missing value imputation, categorical encoding, feature scaling, and high-volume transactional restructuring[cite: 2] |
+| **Machine Learning Pipelines** | `Advanced` | End-to-end churn classification pipelines using Scikit-learn, achieving **98.25% recall** with Logistic Regression |
+| **Statistical Analysis & EDA** | `Expert` | Descriptive statistics, outlier detection, and distribution analysis with Pandas, NumPy, Matplotlib, and Seaborn |
+| **Relational Data Modeling** | `Expert` | Complex SQL queries, CTEs, multi-table aggregations, and star schema dimensional architectures |
+| **Business Intelligence & DAX** | `Expert` | Custom DAX measures (`SUMX`, `DIVIDE`), Power Query transformations, and interactive Power BI KPI dashboards |
+| **Data Wrangling & Cleaning** | `Expert` | Missing value imputation, categorical encoding, feature scaling, and high-volume transactional restructuring |
 
 ---
 
@@ -94,14 +94,14 @@ Combining computer science fundamentals (C, C++, Java, Python)[cite: 2] with mod
 <summary><b>01. Customer Churn Prediction (Machine Learning)</b></summary>
 <br/>
 
-> **Production-grade predictive classification pipeline built to identify at-risk customers and maximize retention.**[cite: 2]
+> **Production-grade predictive classification pipeline built to identify at-risk customers and maximize retention.**
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `Python` `Scikit-learn` `Pandas` `NumPy`[cite: 2] | 440,000+ Customer Records[cite: 2] | 98.25% Recall Rate (Logistic Regression)[cite: 2] | Secure Pipeline Ingestion | Proactive Retention Campaigns[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
+| `Python` `Scikit-learn` `Pandas` `NumPy` | 440,000+ Customer Records | 98.25% Recall Rate (Logistic Regression) | Secure Pipeline Ingestion | Proactive Retention Campaigns | [Source Code](https://github.com/yusufehtesham29) |
 
-* Engineered an automated preprocessing and feature transformation pipeline across 440K+ customer records[cite: 2].
-* Trained and evaluated classification models, tuning Logistic Regression to achieve a 98.25% recall score to prevent false negatives in customer churn tracking[cite: 2].
+* Engineered an automated preprocessing and feature transformation pipeline across 440K+ customer records.
+* Trained and evaluated classification models, tuning Logistic Regression to achieve a 98.25% recall score to prevent false negatives in customer churn tracking.
 
 </details>
 
@@ -111,14 +111,14 @@ Combining computer science fundamentals (C, C++, Java, Python)[cite: 2] with mod
 <summary><b>02. Superstore Sales & Profit Analysis</b></summary>
 <br/>
 
-> **Relational data analytics project evaluating transaction profitability across product categories, segments, and geographical regions.**[cite: 2]
+> **Relational data analytics project evaluating transaction profitability across product categories, segments, and geographical regions.**
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `SQL (SQLite)` `Python` `Pandas` `Matplotlib` `Jupyter`[cite: 2] | 9,995 Transactions[cite: 2] | Sub-second CTE & Aggregation Execution[cite: 2] | ACID-Compliant Local Schema | Uncovered $22.4K in Annual Losses[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
+| `SQL (SQLite)` `Python` `Pandas` `Matplotlib` `Jupyter` | 9,995 Transactions | Sub-second CTE & Aggregation Execution | ACID-Compliant Local Schema | Uncovered $22.4K in Annual Losses | [Source Code](https://github.com/yusufehtesham29) |
 
-* Analyzed 9,995 retail transactions using SQLite (CTEs, aggregations) and Python to assess financial performance across dimensions[cite: 2].
-* Pinpointed chronic loss-making sub-categories responsible for $22.4K in annual losses and formulated discount-capping strategies to improve profit margins[cite: 2].
+* Analyzed 9,995 retail transactions using SQLite (CTEs, aggregations) and Python to assess financial performance across dimensions.
+* Pinpointed chronic loss-making sub-categories responsible for $22.4K in annual losses and formulated discount-capping strategies to improve profit margins.
 
 </details>
 
@@ -128,14 +128,14 @@ Combining computer science fundamentals (C, C++, Java, Python)[cite: 2] with mod
 <summary><b>03. Quick Commerce BI Analytics — 30-Day Power BI Challenge</b></summary>
 <br/>
 
-> **Executive business intelligence dashboards tracking quick-commerce inventory operations, delivery metrics, and margins.**[cite: 2]
+> **Executive business intelligence dashboards tracking quick-commerce inventory operations, delivery metrics, and margins.**
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `Power BI Desktop` `DAX` `Power Query` `Data Modeling`[cite: 2] | 26,000+ Transactions[cite: 2] | Optimized DAX & Star Schema Model[cite: 2] | Enterprise Role-Level Security (RLS) | Isolated INR 71L Churn Recovery Pool[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
+| `Power BI Desktop` `DAX` `Power Query` `Data Modeling` | 26,000+ Transactions | Optimized DAX & Star Schema Model | Enterprise Role-Level Security (RLS) | Isolated INR 71L Churn Recovery Pool | [Source Code](https://github.com/yusufehtesham29) |
 
-* Spearheaded an intensive 30-day BI challenge, engineering production dashboards for quick-commerce operational datasets[cite: 2].
-* Modeled 26K+ transactions using custom DAX measures (`SUMX`, `DIVIDE`) to uncover an INR 71L churn recovery pool and evaluate category margins (27.8%)[cite: 2].
+* Spearheaded an intensive 30-day BI challenge, engineering production dashboards for quick-commerce operational datasets.
+* Modeled 26K+ transactions using custom DAX measures (`SUMX`, `DIVIDE`) to uncover an INR 71L churn recovery pool and evaluate category margins (27.8%).
 
 </details>
 
@@ -145,14 +145,14 @@ Combining computer science fundamentals (C, C++, Java, Python)[cite: 2] with mod
 <summary><b>04. Coffee Shop Sales Analytics</b></summary>
 <br/>
 
-> **Multi-location point-of-sale analytics platform evaluating revenue velocity, hourly trends, and inventory demands.**[cite: 2]
+> **Multi-location point-of-sale analytics platform evaluating revenue velocity, hourly trends, and inventory demands.**
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `Excel` `Power Pivot` `Pivot Tables` `Slicers`[cite: 2] | 149,000+ Records ($698K Revenue)[cite: 2] | Optimized Pivot Cache | Protected Workbook Controls | Optimized Staffing & Stock Replenishment[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
+| `Excel` `Power Pivot` `Pivot Tables` `Slicers` | 149,000+ Records ($698K Revenue) | Optimized Pivot Cache | Protected Workbook Controls | Optimized Staffing & Stock Replenishment | [Source Code](https://github.com/yusufehtesham29) |
 
-* Analyzed 149K+ transactions ($698K revenue) across 3 store locations in Microsoft Excel[cite: 2].
-* Isolated peak operating hours (8–11 AM) and product sales patterns to optimize staffing schedules and supply replenishment[cite: 2].
+* Analyzed 149K+ transactions ($698K revenue) across 3 store locations in Microsoft Excel.
+* Isolated peak operating hours (8–11 AM) and product sales patterns to optimize staffing schedules and supply replenishment.
 
 </details>
 
@@ -162,14 +162,14 @@ Combining computer science fundamentals (C, C++, Java, Python)[cite: 2] with mod
 <summary><b>05. Supermarket Sales Insights (EDA)</b></summary>
 <br/>
 
-> **Exploratory Data Analysis system analyzing retail records to uncover branch-level trends and financial benchmarks.**[cite: 2]
+> **Exploratory Data Analysis system analyzing retail records to uncover branch-level trends and financial benchmarks.**
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`[cite: 2] | 1,000 Transactions (Q1 2019)[cite: 2] | Vectorized In-Memory Execution | Controlled Jupyter Environment | Evaluated $322.9K Revenue Metrics[cite: 2] | [Source Code](https://github.com/yusufehtesham29)[cite: 2] |
+| `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` | 1,000 Transactions (Q1 2019) | Vectorized In-Memory Execution | Controlled Jupyter Environment | Evaluated $322.9K Revenue Metrics | [Source Code](https://github.com/yusufehtesham29) |
 
-* Performed exploratory data analysis across retail transactions, evaluating KPI baselines including $322,966.75 in revenue and a 4.76% profit margin[cite: 2].
-* Created statistical visualizations identifying key performance trends across branch networks, customer demographics, and product lines[cite: 2].
+* Performed exploratory data analysis across retail transactions, evaluating KPI baselines including $322,966.75 in revenue and a 4.76% profit margin.
+* Created statistical visualizations identifying key performance trends across branch networks, customer demographics, and product lines.
 
 </details>
 
@@ -177,14 +177,14 @@ Combining computer science fundamentals (C, C++, Java, Python)[cite: 2] with mod
 
 ### **Experience**
 
-**Data & Analytics Engineer** • `Project-Based Experience`[cite: 2]  
-`2024 — PRESENT`[cite: 2]
+**Data & Analytics Engineer** • `Project-Based Experience`  
+`2024 — PRESENT`
 
-* Spearheading the design and implementation of predictive machine learning pipelines, full-stack applications, and interactive BI dashboards[cite: 2].
-* Authoring scalable SQL queries (MySQL, SQLite) and Python workflows to extract, transform, and analyze high-volume operational datasets[cite: 2].
-* Designing multi-dimensional Power BI and Excel models with advanced DAX to drive data-informed decision-making and profit optimization[cite: 2].
+* Spearheading the design and implementation of predictive machine learning pipelines, full-stack applications, and interactive BI dashboards.
+* Authoring scalable SQL queries (MySQL, SQLite) and Python workflows to extract, transform, and analyze high-volume operational datasets.
+* Designing multi-dimensional Power BI and Excel models with advanced DAX to drive data-informed decision-making and profit optimization.
 
-`SQL` `Python` `Pandas` `Scikit-learn` `Power BI` `DAX` `Excel` `MERN Stack` `MongoDB`[cite: 2]
+`SQL` `Python` `Pandas` `Scikit-learn` `Power BI` `DAX` `Excel` `MERN Stack` `MongoDB`
 
 ---
 
@@ -194,10 +194,10 @@ Combining computer science fundamentals (C, C++, Java, Python)[cite: 2] with mod
 
 | Recognition | Details |
 | :--- | :--- |
-| **High-Precision ML Deployment** | Trained and deployed a customer churn model delivering a **98.25% recall rate** across 440K+ records[cite: 2] |
-| **Commercial Revenue Recovery** | Isolated **$22.4K in annual discount losses** and identified an **INR 71L churn recovery pool** via advanced analytics[cite: 2] |
-| **30-Day Power BI Challenge** | Successfully completed an intensive **30-day BI sprint**, delivering production-grade dashboards on complex operational data[cite: 2] |
-| **Academic Background** | Completed Master of Computer Applications (MCA) and Bachelor of Computer Applications (BCA)[cite: 2] |
+| **High-Precision ML Deployment** | Trained and deployed a customer churn model delivering a **98.25% recall rate** across 440K+ records |
+| **Commercial Revenue Recovery** | Isolated **$22.4K in annual discount losses** and identified an **INR 71L churn recovery pool** via advanced analytics |
+| **30-Day Power BI Challenge** | Successfully completed an intensive **30-day BI sprint**, delivering production-grade dashboards on complex operational data |
+| **Academic Background** | Completed Master of Computer Applications (MCA) and Bachelor of Computer Applications (BCA) |
 
 </div>
 
@@ -209,19 +209,19 @@ Combining computer science fundamentals (C, C++, Java, Python)[cite: 2] with mod
 
 #### **NASSCOM & Skill India Digital Hub**
 <p align="center">
-  <img src="https://img.shields.io/badge/NASSCOM-AI--Data_Engineering_Analyst-0052CC?style=flat-square&logo=cisco&logoColor=white" alt="AI Data Engineering" />[cite: 2]
-  <img src="https://img.shields.io/badge/NASSCOM-AI_DevOps_Analyst-006699?style=flat-square&logo=cisco&logoColor=white" alt="AI DevOps Analyst" />[cite: 2]
+  <img src="https://img.shields.io/badge/NASSCOM-AI--Data_Engineering_Analyst-0052CC?style=flat-square&logo=cisco&logoColor=white" alt="AI Data Engineering" />
+  <img src="https://img.shields.io/badge/NASSCOM-AI_DevOps_Analyst-006699?style=flat-square&logo=cisco&logoColor=white" alt="AI DevOps Analyst" />
 </p>
 
 #### **Alteryx**
 <p align="center">
-  <img src="https://img.shields.io/badge/Alteryx-Designer_Core_Certification-004B87?style=flat-square&logo=alteryx&logoColor=white" alt="Alteryx Core" />[cite: 2]
-  <img src="https://img.shields.io/badge/Alteryx-Foundational_Micro--Credential-1E3A8A?style=flat-square&logo=alteryx&logoColor=white" alt="Alteryx Micro Credential" />[cite: 2]
+  <img src="https://img.shields.io/badge/Alteryx-Designer_Core_Certification-004B87?style=flat-square&logo=alteryx&logoColor=white" alt="Alteryx Core" />
+  <img src="https://img.shields.io/badge/Alteryx-Foundational_Micro--Credential-1E3A8A?style=flat-square&logo=alteryx&logoColor=white" alt="Alteryx Micro Credential" />
 </p>
 
 #### **OneRoadmap & Cisco**
 <p align="center">
-  <img src="https://img.shields.io/badge/OneRoadmap-Data_Analyst_Certification-4C1D95?style=flat-square&logo=expertsexchange&logoColor=white" alt="OneRoadmap" />[cite: 2]
+  <img src="https://img.shields.io/badge/OneRoadmap-Data_Analyst_Certification-4C1D95?style=flat-square&logo=expertsexchange&logoColor=white" alt="OneRoadmap" />
   <img src="https://img.shields.io/badge/Cisco_Networking_Academy-Programming_in_C%20%2F%20C%2B%2B%20%26%20Python-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
